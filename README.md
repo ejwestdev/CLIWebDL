@@ -1,2 +1,2 @@
 # CLIWebDL
-Python program to download web files
+Simple python program I made to learn more about argparse
